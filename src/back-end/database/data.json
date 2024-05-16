@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Gouda",
+        "img": "../images/gouda.png",
+        "price": 30.99,
+        "colour": "yellow"
+    },
+
+    {
+        "name": "Cheddar",
+        "img": "../images/cheddar.png",
+        "price": 49.99,
+        "colour": "pale yellow"
+    },
+
+    {
+        "name": "Provolone",
+        "img": "../images/provolone.png",
+        "price": 36.99,
+        "colour": "pale yellow"
+    },
+
+    {
+        "name": "Babybel",
+        "img": "../images/babybel.png",
+        "price": 59.00,
+        "colour": "wax: red, cheese: pale yellow"
+    },
+    
+    {
+        "name":"Brie",
+        "img":"../images/brie.png",
+        "price": 36.99,
+        "colour": "cream"
+    }
+]
